@@ -3,7 +3,7 @@ initial import for github.com
 How to clone:
 git clone git@github.com:kayanuma/miranda.git
 
-How to clone: (firewall)
+How to clone: (from inside of firewall)
 export HTTPS_PROXY=http://43.22.253.65:10080 
 git clone https://kayanuma@github.com/kayanuma/miranda.git
 cd miranda

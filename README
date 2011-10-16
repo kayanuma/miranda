@@ -4,14 +4,14 @@ How to clone:
 git clone git@github.com:kayanuma/miranda.git
 
 How to clone: (from inside of firewall)
-export HTTPS_PROXY=http://43.22.253.65:10080 
+export HTTPS_PROXY=http://proxy.osk.sony.co.jp:10080
 git clone https://kayanuma@github.com/kayanuma/miranda.git
 cd miranda
-git config http.proxy "http://xx.xx.xx.xx:10080"
+git config http.proxy "http://proxy.osk.sony.co.jp:10080"
 
 Homepage:
 https://github.com/kayanuma/miranda
 
 ---
-last updated on 2011/02/19
+last updated on 2011/10/16
 

@@ -1,14 +1,14 @@
-initial import for github.com
+# Hello again miranda!
 
-How to clone:
+## How to clone:
 git clone git@github.com:kayanuma/miranda.git
 git clone https://kayanuma@github.com/kayanuma/miranda.git
 
-Homepage:
+## Homepage:
 https://github.com/kayanuma/miranda
 
-Commit Graph:
-
+## Commit Graph:
+```
       0   0.1           0.2   0.3
       ○―○――――――○――○―――    feature/kayanuma
     ／
@@ -19,6 +19,7 @@ Commit Graph:
           ＼
             ○――○――――○――――    feature/other1
             1     1.1       1.2
+```
 
 ---
 last updated on 2022/08/13

@@ -8,5 +8,5 @@ Homepage:
 https://github.com/kayanuma/miranda
 
 ---
-last updated on 2012/09/01
+last updated on 2022/08/13
 

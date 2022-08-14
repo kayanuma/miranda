@@ -18,6 +18,7 @@ https://github.com/kayanuma/miranda/commits/develop
 
 https://github.com/kayanuma/miranda/compare/develop...feature/kayanuma
 ```
+[git:7077dc0] - 2022/08/14 (Sun) 17:11  <Masashi.Kayanuma>     - add feature0.4
 [git:12c8d16] - 2022/08/13 (Sat) 22:23  <Masashi.Kayanuma>     - add feature0.3
 [git:ff35755] - 2022/08/13 (Sat) 22:20  <Masashi.Kayanuma>     - add feature0.2
 [git:fa2ce83] - 2022/08/13 (Sat) 22:12  <Masashi.Kayanuma>     - add feature0.1
